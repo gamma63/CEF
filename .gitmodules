@@ -1,0 +1,3 @@
+[submodule "source/libc"]
+	path = source/libc
+	url = https://github.com/embeddedartistry/libc.git

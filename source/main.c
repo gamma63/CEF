@@ -1,7 +1,7 @@
-#include "lib/stdlib.h"
+#include <stdio.h>
 
 int main(void)
 {
-	printf("Hello world from a flat binary!");
+	printf_("Hello world!");
 	return 0;
 }
